@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marc Muckensturm and I'm a Data engineer/scientist. I'm from France, living in Strasbourg and currently working at CORA. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Marc Muckensturm and I'm a Data engineer/scientist. I'm from France, living in Strasbourg and currently working at CORA. You can find me on Twitter,  or on LinkedIn.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
