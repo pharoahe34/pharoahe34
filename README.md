@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+My name is Marc Muckensturm and I'm a Data engineer/scientist. I'm from France, living in Strasbourg and currently working at CORA. You can find me on Twitter, or on LinkedIn.
 <!--
 **pharoahe34/pharoahe34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+SELECT *
+FROM db.MARC_MUCKENSTURM
+WHERE POI LIKE %data%engineering%science%
 
 Here are some ideas to get you started:
 
